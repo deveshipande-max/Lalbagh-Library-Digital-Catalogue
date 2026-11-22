@@ -1,0 +1,10 @@
+{
+  "description": "Browse Lalbagh Library’s digital catalogue to discover available books and resources, making it easier for patrons to find their next read.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
